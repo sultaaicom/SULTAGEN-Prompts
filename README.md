@@ -10,7 +10,7 @@ There are no limits.
 
 <div align="center">
 
-  <img src="https://github.com/user-attachments/assets/91699f5f-6375-400a-a7f8-8de7fab8352b" width="100%" style="border-radius: 12px; border: 1px solid #30363d;">
+
 
   <br>
   <img src="https://img.icons8.com/nolan/64/double-down.png" width="40">
